@@ -1,0 +1,17 @@
+.review-display {
+    padding-top: 20px;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 20px;
+  }
+  .review-display h2{
+    margin-bottom: 20px;
+    color: #095a5a;
+  }
+  
+  .review-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 20px; 
+  }
+  
