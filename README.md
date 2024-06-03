@@ -27,14 +27,20 @@ A continuación, se describirá y dará una explicación de inicio a fin para ev
 
 ### Clonar Repositorio de GitHub
 1. **Ir al Repositorio de GitHub:**
-   - Abre tu navegador web y ve al repositorio de GitHub que deseas clonar.
+   - Abrir navegador web y dirigirte a este repositorio que será el que clonaremos.
    - Encima de la lista de archivos, haz clic en el botón “Code”.
    - Copia la dirección URL del repositorio que aparece (HTTPS).
 
 ![Captura de pantalla 2024-06-01 012030](https://github.com/Valeriagalaviz/GreenFor/assets/71987380/51c7a055-9a5f-4e93-a1bf-b0b1a6f6e4aa)
 
 2. **Crear la Carpeta Local:**
-   - Abre el Explorador de Archivos y navega hasta la ubicación deseada.
-   - Crea una nueva carpeta con un nombre para el repositorio.
+   - Abrir el Explorador de Archivos y navega hasta la ubicación deseada.
+   - Crear una nueva carpeta con un nombre para el repositorio.
 
 ![Captura de pantalla 2024-05-31 195259](https://github.com/Valeriagalaviz/GreenFor/assets/71987380/9d683056-7097-4dee-acd4-8501e63e7082)
+
+3. **Abrir la terminal CMD:**
+   - Dirigirte a la carpeta donde se guardara el ropositorio clonado.
+   - Abrir la terminal y escribir el siguiente comando `git clone https://github.com/Valeriagalaviz/GreenFor.git` y dar *Enter*.
+   - Verificar que los archivos se hayan clonado correctamente (puedes hacer esto utilizando el comendo dir en la terminal).
+![Captura de pantalla 2024-06-02 225409](https://github.com/Valeriagalaviz/GreenFor/assets/71987380/13ebf417-4dd3-4fe1-95be-ee86ce68f6f2)
